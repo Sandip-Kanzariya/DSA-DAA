@@ -1,6 +1,19 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
 
 >## Stack
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+>## Queue
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
 
 >## Dynamic Programmig 
 
@@ -22,8 +35,23 @@
 | Longest Comman Subsequence (LCS) |  |  |
 |  |  |  |
 | Matrix Chain Multiplication |  |  |
+| Multistage Graph |  |  |
 
-### Practice problem 
+### Practice problems
 <!-- [Educational DP Contect - Atcoder](https://atcoder.jp/contests/dp/tasks/) -->
+---
 
+>## Backtracking
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+>## Brach and Bound 
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
 
