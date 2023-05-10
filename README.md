@@ -1,4 +1,19 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
+<!-- 
+>## Sorting Algorithms
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+| Insertion Sort |  |  |
+| Selection Sort |  |  |
+| Bubble Sort |  |  |
+| Quick Sort |  |  |
+| Megre Sort |  |  |
+| Heap Sort |  |  |
+| Count Sort |  |  |
+| Radix Sort |  |  |
+| Shell Sort |  |  |  
+### Practice problems
+---
 
 >## Stack
 | Topic | Problem name | Similar problems |
@@ -14,6 +29,20 @@
 ### Practice problems
 ---
 
+
+>## Algorithms On a Graph
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+| Graph |  |  |
+| BFS |  |  |
+| DFS |  |  |
+| Cycle Detection |  |  |
+| Topological Sort |  |  |
+| Kruskal |  |  |
+| Prims |  |  |
+| Dijkstra |  |  |
+### Practice problems
+---
 
 >## Dynamic Programming 
 
@@ -38,7 +67,7 @@
 | Multistage Graph |  |  |
 
 ### Practice problems
-<!-- [Educational DP Contect - Atcoder](https://atcoder.jp/contests/dp/tasks/) -->
+// [Educational DP Contest - Atcoder](https://atcoder.jp/contests/dp/tasks/) 
 ---
 
 >## Backtracking
@@ -55,3 +84,4 @@
 ### Practice problems
 ---
 
+ -->
