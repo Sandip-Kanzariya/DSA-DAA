@@ -48,7 +48,7 @@
 ### Practice problems
 ---
 
->## Brach and Bound 
+>## Branch and Bound 
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
 |  |  |  |
