@@ -15,7 +15,7 @@
 ---
 
 
->## Dynamic Programmig 
+>## Dynamic Programming 
 
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
