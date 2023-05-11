@@ -1,5 +1,5 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
-<!-- 
+
 >## Sorting Algorithms
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -14,7 +14,7 @@
 | Shell Sort |  |  |  
 ### Practice problems
 ---
-
+<!-- 
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
