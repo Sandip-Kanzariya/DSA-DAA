@@ -1,17 +1,38 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
 
+>## Competitive Programming 
+### 1. Online Platforms 
+#### A ) [Hackerrank](https://www.hackerrank.com/)
+#### B ) [CodeChef](https://www.codechef.com/)
+#### C ) [Codeforces](https://codeforces.com/)
+#### D ) [LeetCode](https://leetcode.com/)
+#### E ) [AtCoder](https://atcoder.jp/)
+#### F ) [InterviewBit](https://www.interviewbit.com/)
+#### G ) [Coding Ninjas](https://www.codingninjas.com/)
+#### H ) [HackerEarth](https://www.hackerearth.com/)
+
+
+### 2. Practice 
+| Topic | Codeforces | CodeChef |
+|--- |--- |--- |
+|WarmUp For Newcomers| [Sheet : 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests) | [Foundation Non DSA](https://www.codechef.com/BEGINNERPROB)|
+|  | [CodeRams](https://codeforces.com/gym/102697) |  |
+| DSA |  | [TopicWiseDSA](https://www.codechef.com/college/contests) |
+|  |  |  |
+---
+
 >## Sorting Algorithms
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-| Insertion Sort |  |  |
-| Selection Sort |  |  |
-| Bubble Sort |  |  |
-| Quick Sort |  |  |
-| Megre Sort |  |  |
-| Heap Sort |  |  |
-| Count Sort |  |  |
-| Radix Sort |  |  |
-| Shell Sort |  |  |  
+| Insertion Sort |  | [GFG]()  |
+| Selection Sort |  | [GFG]() |
+| Bubble Sort |  | [GFG]() |
+| Quick Sort |  | [GFG]() |
+| Megre Sort |  | [GFG]() |
+| Heap Sort |  | [GFG]() |
+| Count Sort |  | [GFG]() |
+| Radix Sort |  | [GFG]() |
+| Shell Sort |  | [GFG]() |  
 ### Practice problems
 ---
 <!-- 
