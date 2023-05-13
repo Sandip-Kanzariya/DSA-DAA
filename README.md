@@ -36,7 +36,7 @@
 | Shell Sort |  | [GFG]() |  
 ### Practice problems
 ---
-<!-- 
+
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -73,13 +73,13 @@
 | Fundamental | Factorial |  |
 |  | Fibonacci |  |
 |  | Binomial Coefficient |  |
-| 0-1 Knapsack |  |  |
-|  | Subset Sum Problem |  |
-|  | Equal Sum Partition |  |
-|  | Count Subsets Of Given Sum |  |
-|  | Minimum Subset Sum Difference |  |
-|  | Count Subset With Given Difference |  |
-|  | Target Sum |  |
+| 0-1 Knapsack |  | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | 
+|  | Subset Sum Problem | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) / [Interviewbit](https://www.interviewbit.com/problems/subset-sum-problem/)|
+|  | Equal Sum Partition | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) / [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/partition-equal-subset-sum_892980) / [HackerEarth](https://www.hackerearth.com/problem/algorithm/equal-subset-sum-partition/)|
+|  | Count Subsets Of Given Sum | [GFG](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
+|  | Minimum Subset Sum Difference | [LeetCode](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) / [Interviewbit](https://www.interviewbit.com/problems/minimum-difference-subsets/)|
+|  | Count Subset With Given Difference | [GFG](https://practice.geeksforgeeks.org/problems/partitions-with-given-difference/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628)|
+|  | Target Sum | [GFG](https://practice.geeksforgeeks.org/problems/target-sum-1626326450/1) / [LeetCode](https://leetcode.com/problems/target-sum/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/target-sum_4127362)|
 | Unbounded Knapsack |  |  |
 |  | Rod Cutting Problem |  |
 |  | Making Change |  |
@@ -106,4 +106,4 @@
 ### Practice problems
 ---
 
- -->
+ 
