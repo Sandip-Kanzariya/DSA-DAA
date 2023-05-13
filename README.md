@@ -7,9 +7,10 @@
 #### C ) [Codeforces](https://codeforces.com/)
 #### D ) [LeetCode](https://leetcode.com/)
 #### E ) [AtCoder](https://atcoder.jp/)
-#### F ) [InterviewBit](https://www.interviewbit.com/)
-#### G ) [Coding Ninjas](https://www.codingninjas.com/)
-#### H ) [HackerEarth](https://www.hackerearth.com/)
+#### F ) [CSES](https://cses.fi/problemset/)
+#### G ) [InterviewBit](https://www.interviewbit.com/)
+#### H ) [Coding Ninjas](https://www.codingninjas.com/)
+#### I ) [HackerEarth](https://www.hackerearth.com/)
 
 
 ### 2. Practice 
