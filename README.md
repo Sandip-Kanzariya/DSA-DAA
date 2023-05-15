@@ -36,7 +36,7 @@
 | Shell Sort |  | [GFG]() |  
 ### Practice problems
 ---
-<!-- 
+
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -55,16 +55,32 @@
 >## Algorithms On a Graph
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-| Graph |  |  |
-| BFS |  |  |
-| DFS |  |  |
+| Graph | Creation & Representation Of Graph | [GFG](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/create-a-graph-and-print-it_1214551) |
+| BFS | BFS On Connected Graph | [GFG](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
+|  | BFS On Disconnected Graph | [Coding ninjas](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002) |
+|   | BFS On Grid |   |
+|   | Multisource BFS  |   |
+|   | 0-1 BFS  |   |
+| DFS | DFS On Connected Graph | [GFG](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |
+|  | DFS On Connected Graph | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462) |
+|  | DFS on Grid |  |
+|+++++++++++++++++++| Application of BFS & DFS |+++++++++++++++++++++|
 | Cycle Detection |  |  |
 | Topological Sort |  |  |
+|DSU| | |
 | Kruskal |  |  |
 | Prims |  |  |
 | Dijkstra |  |  |
 ### Practice problems
+#### ✨Codeforces  : [Problems on Graph & Tree](https://codeforces.com/blog/entry/55219) 👈👈👈👈👈
 ---
+
+>## Tree
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+---
+
 
 >## Dynamic Programming 
 
@@ -89,7 +105,7 @@
 | Multistage Graph |  |  |
 
 ### Practice problems
-// [Educational DP Contest - Atcoder](https://atcoder.jp/contests/dp/tasks/) 
+#### ✨Atcoder : [Educational DP Contest](https://atcoder.jp/contests/dp/tasks/) 👈👈👈👈👈
 ---
 
 >## Backtracking
@@ -107,4 +123,4 @@
 ---
 
  
- -->
+
