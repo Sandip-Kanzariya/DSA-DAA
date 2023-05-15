@@ -13,6 +13,7 @@
 #### H ) [Coding Ninjas](https://www.codingninjas.com/)
 #### I ) [HackerEarth](https://www.hackerearth.com/)
 
+>### ✨DSA Theory : [Resource](https://codeforces.com/blog/entry/78354) 👈👈👈👈👈
 
 ### 2. Practice 
 | Topic | Codeforces | CodeChef |
