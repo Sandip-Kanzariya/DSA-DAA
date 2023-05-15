@@ -36,7 +36,7 @@
 | Shell Sort |  | [GFG]() |  
 ### Practice problems
 ---
-
+<!-- 
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -124,3 +124,4 @@
 
  
 
+ -->
