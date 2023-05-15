@@ -3,6 +3,7 @@
 >## Competitive Programming 
 ### 1. Online Platforms 
 #### A ) [Hackerrank](https://www.hackerrank.com/)
+
 #### B ) [CodeChef](https://www.codechef.com/)
 #### C ) [Codeforces](https://codeforces.com/)
 #### D ) [LeetCode](https://leetcode.com/)
@@ -18,7 +19,7 @@
 |--- |--- |--- |
 |WarmUp For Newcomers| [Sheet : 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests) | [Foundation Non DSA](https://www.codechef.com/BEGINNERPROB)|
 |  | [CodeRams](https://codeforces.com/gym/102697) |  |
-| DSA |  | [TopicWiseDSA](https://www.codechef.com/college/contests) |
+| DSA |  | [TopicWiseDSA](https://www.codechef.com/college/contests) By DDIT |
 |  |  |  |
 ---
 
@@ -37,6 +38,7 @@
 | Shell Sort |  | [GFG]() |  
 ### Practice problems
 ---
+
 <!-- 
 >## Stack
 | Topic | Problem name | Similar problems |
@@ -65,9 +67,13 @@
 | DFS | DFS On Connected Graph | [GFG](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |
 |  | DFS On Connected Graph | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462) |
 |  | DFS on Grid |  |
-|+++++++++++++++++++| Application of BFS & DFS |+++++++++++++++++++++|
+|  |  | [leetcode : Flood Fill](https://leetcode.com/problems/flood-fill/) / [Codeforces : The Lakes](https://codeforces.com/problemset/problem/1829/E)|
+|  |  |  |
+|+++++++++++++++++++++++++++| Application of BFS & DFS |+++++++++++++++++++++|
 | Cycle Detection |  |  |
-| Topological Sort |  |  |
+| | Cycle Detection in an Undirected Graph |[GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)|
+| | Cycle Detection in a Directed Graph |[GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)|
+| Topological Sort |  | [GFG](https://practice.geeksforgeeks.org/problems/topological-sort/1) |
 |DSU| | |
 | Kruskal |  |  |
 | Prims |  |  |
@@ -98,6 +104,22 @@
 ---
 
 
+>## Recursion
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+| Delete Middle Element of a Stack |  | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) / [LeetCode : k-th-symbol-in-grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|
+| Tower of Hanoi |   |  [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | 
+| power-set / Subsequences / Sub set of String |   |  [GFG](https://practice.geeksforgeeks.org/problems/power-set4302/1) | 
+| permutation-with-spaces  |   |[GFG](https://practice.geeksforgeeks.org/problems/permutation-with-spaces3627/1)| 
+|subsets of Integer vector / array |   | [GFG](https://practice.geeksforgeeks.org/problems/subsets-1613027340/1)  | 
+|| Subset Sums  | [GFG](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)  | 
+|   | Letter Case Permutation  | [LeetCode](https://leetcode.com/problems/letter-case-permutation/)  | 
+|Generate-all-possible-parentheses | |[GFG](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1) / [LeetCode](https://leetcode.com/problems/generate-parentheses/) |
+|Print-n-bit-binary-numbers-having-more-1s-than-0s| |[GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1) |
+|Josephus - Game of Death in a Circle | | [GFG](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | 
+
+### Practice problems
+---
 
 >## Dynamic Programming 
 
