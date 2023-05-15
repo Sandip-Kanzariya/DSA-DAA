@@ -43,7 +43,23 @@
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Stack implementation |  |[GFG](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problem-details/stack-implementation-using-array_3210209) / [HeakerEarth](https://www.hackerearth.com/problem/algorithm/stack-using-arrays-2/)|
+|Postfix Expression| |[GFG](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |
+|Prefix Expression| | |
+|Use in Question | | |
+| |NGR : Nearest_Greater_to_Right|[GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1 ) / [LeetCode](https://leetcode.com/problems/next-greater-element-i/)|
+| |NGL : Nearest_Greater_to_Left | |
+| |NSR : Nearest_Smaller_to_Right |[GFG](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1) |
+| |NSL : Nearest_Smaller_to_Left |[GFG](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1) |
+| |Stock Span Problem |[GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)|
+|MAH : Maximum-rectangular-area-in-a-histogram| | [GFG](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1) / [Rain Water Trapping Problem](https://leetcode.com/problems/trapping-rain-water/)|
+| Maximum area rectangle in Binary Matrix | |[GFG](https://practice.geeksforgeeks.org/problems/max-rectangle/1)|
+|| | | 
+|Minimum Element in Stack|With Extra Memory | |
+||Without Extra Memory |[GFG]( https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) |
+
+
+
 ### Practice problems
 ---
 
@@ -166,7 +182,5 @@
 | 0-1 Knapsack Using Branch & Bound |  |  |
 ### Practice problems
 ---
-
- 
 
  -->
