@@ -29,7 +29,8 @@
 | Selection Sort |  | [GFG]() |
 | Bubble Sort |  | [GFG]() |
 | Quick Sort |  | [GFG]() |
-| Megre Sort |  | [GFG]() |
+| Divide & Conquer | Merge Sort | [GFG]() |
+|   |   |    |
 | Heap Sort |  | [GFG]() |
 | Count Sort |  | [GFG]() |
 | Radix Sort |  | [GFG]() |
@@ -71,6 +72,11 @@
 | Kruskal |  |  |
 | Prims |  |  |
 | Dijkstra |  |  |
+| Bellman Ford |  |  |
+| Floyd_Warshall : All_Pairs_Shortest_Path_Using_DP |  |  |
+| Kosarju's_Algorithm : Find Strongly_Connected_Components |    |     |
+| Tarjan's_Algorithm : Find_Articulation_Points |    |     |
+
 ### Practice problems
 #### ✨Codeforces  : [Problems on Graph & Tree](https://codeforces.com/blog/entry/55219) 👈👈👈👈👈
 ---
@@ -80,6 +86,17 @@
 |--- |--- |--- |
 |  |  |  |
 ---
+
+
+>## Greedy
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+| Activity Selection |  |  |
+| Fractional Knapsack |  |  |
+| Making Coin Change |  |  |
+### Practice problems
+---
+
 
 
 >## Dynamic Programming 
@@ -108,17 +125,23 @@
 #### ✨Atcoder : [Educational DP Contest](https://atcoder.jp/contests/dp/tasks/) 👈👈👈👈👈
 ---
 
->## Backtracking
+>## Backtracking : Find all Possible Solution
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| N - Queens |  |  |
+| Graph Coloring |  |  |
+| Hamiltonian Cycle |  |  |
+| Sum of Subset Using Backtracking |  |  |
 ### Practice problems
 ---
 
 >## Branch and Bound 
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Job Assignment Problem |  |  |
+| 8-Puzzle |  |  |
+| Traveling SalesPerson Problem |  |  |
+| 0-1 Knapsack Using Branch & Bound |  |  |
 ### Practice problems
 ---
 
