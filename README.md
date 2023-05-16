@@ -72,6 +72,38 @@
 ---
 
 
+>## Linked List
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+>## Sliding Window
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+
+
+>## Heap
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+
+>## Binary Search
+| Topic | Problem name | Similar problems |
+|--- |--- |--- |
+|  |  |  |
+### Practice problems
+---
+
+
 >## Algorithms On a Graph
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -167,8 +199,8 @@
 >## Backtracking : Find all Possible Solution
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-| N - Queens |  |  |
-| Graph Coloring |  |  |
+| N - Queens |  | [GFG](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1) / [Codeforces](https://codeforces.com/problemset/gymProblem/100947/B)|
+| Graph Coloring |  | [AtCoder ](https://atcoder.jp/contests/abc294/tasks/abc294_h) |
 | Hamiltonian Cycle |  |  |
 | Sum of Subset Using Backtracking |  |  |
 ### Practice problems
@@ -183,5 +215,6 @@
 | 0-1 Knapsack Using Branch & Bound |  |  |
 ### Practice problems
 ---
+
 
  -->
