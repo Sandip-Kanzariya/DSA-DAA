@@ -117,7 +117,11 @@
 |  | DFS On Connected Graph | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462) |
 |  | DFS on Grid |  |
 |  |  | [leetcode : Flood Fill](https://leetcode.com/problems/flood-fill/) / [Codeforces : The Lakes](https://codeforces.com/problemset/problem/1829/E)|
-|  |  |  |
+|  |  | [Find Number Of Islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) |
+|  |  | [Unit Area of largest region of 1's](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1) |
+|  |  | [X Total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1) | 
+|  |  | [Number of Distinct Islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) | 
+|  |  | [Knight Walk](https://practice.geeksforgeeks.org/problems/knight-walk4521/1) | 
 |+++++++++++++++++++++++++++| Application of BFS & DFS |+++++++++++++++++++++|
 | Cycle Detection |  |  |
 | | Cycle Detection in an Undirected Graph |[GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)|
@@ -129,7 +133,7 @@
 | Dijkstra |  |  |
 | Bellman Ford |  |  |
 | Floyd_Warshall : All_Pairs_Shortest_Path_Using_DP |  |  |
-| Kosarju's_Algorithm : Find Strongly_Connected_Components |    |     |
+| Kosarju's_Algorithm : Find Strongly_Connected_Components |    |[GFG](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/count-strongly-connected-components-kosaraju-s-algorithm_1171151)|
 | Tarjan's_Algorithm : Find_Articulation_Points |    |     |
 
 ### Practice problems
