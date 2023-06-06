@@ -13,6 +13,8 @@
 | Greedy |
 | Recursion |
 | Dynamic Programming |
+| Backtracking |
+| Branch and Bound|
 
 
 >## Competitive Programming 
