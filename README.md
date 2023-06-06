@@ -1,4 +1,19 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
+|Table of Contain|
+|---|
+| Sorting |
+| Stack |
+| Queue |
+| Linked List |
+| Sliding Window |
+| Heap |
+| Binary Search |
+| Algorithms On a Graph |
+| Tree |
+| Greedy |
+| Recursion |
+| Dynamic Programming |
+
 
 >## Competitive Programming 
 ### 1. Online Platforms 
@@ -40,7 +55,7 @@
 ### Practice problems
 ---
 
-<!-- 
+
 >## Stack
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
@@ -222,4 +237,4 @@
 
 
  
- -->
+
