@@ -208,8 +208,13 @@
 | Unbounded Knapsack |  |  |
 |  | Rod Cutting Problem |  |
 |  | Making Change |  |
-| Longest Comman Subsequence (LCS) |  |  |
-|  |  |  |
+| Longest Comman Subsequence (LCS) | LCS | [GFG](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) / [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) / [HackerEarth](https://www.hackerearth.com/problem/algorithm/longest-common-subsequence-2/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/longest-common-subsequence_1063255) / [Interviewbit](https://www.interviewbit.com/problems/longest-common-subsequence/) |
+|  | Print LCS | [HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) |
+| | LCSubString |  |
+| | Shortest Comman Super Sequence | [GFG](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/shortest-supersequence_4244493) / [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) |
+| | Print Shortest comman Super Sequence | []() |
+| | Minimum Insertion & Deletion to Convert String A to B | |
+| | Longest Palindromic Subsequence | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787) / [GFG](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) / [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | Matrix Chain Multiplication |  |  |
 | Multistage Graph |  |  |
 
