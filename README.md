@@ -226,6 +226,7 @@
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
 | N - Queens |  | [GFG](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1) / [Codeforces](https://codeforces.com/problemset/gymProblem/100947/B)|
+| Sudoku | | [GFG](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1) |
 | Graph Coloring |  | [AtCoder ](https://atcoder.jp/contests/abc294/tasks/abc294_h) |
 | Hamiltonian Cycle |  |  |
 | Sum of Subset Using Backtracking |  |  |
