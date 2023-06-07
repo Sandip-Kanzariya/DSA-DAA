@@ -217,9 +217,9 @@
 | | Longest Palindromic Subsequence | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787) / [GFG](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) / [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | Matrix Chain Multiplication |  |  |
 | DP on Tree | | |
-| | Diameter Of Binary Tree | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) / [GFG](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) / []()|
-| | Maximum PathSum from AnyNode to AnyNode | |
-| | Maximum PathSum from LeafNode to LeafNode | |
+| | Diameter Of Binary Tree | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) / [GFG](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) / [HackerEarth](https://www.hackerearth.com/problem/algorithm/diameter-of-tree/)|
+| | Maximum PathSum from AnyNode to AnyNode | [GFG](https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) / [Interviewbit](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/) / [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/maximum-sum-path-of-a-binary-tree_1214968)|
+| | Maximum PathSum from LeafNode to LeafNode |[GFG](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-between-two-leaves_794950) |
 | Multistage Graph |  |  |
 
 ### Practice problems
