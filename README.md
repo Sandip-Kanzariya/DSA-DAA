@@ -215,7 +215,11 @@
 | | Print Shortest comman Super Sequence | []() |
 | | Minimum Insertion & Deletion to Convert String A to B | |
 | | Longest Palindromic Subsequence | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787) / [GFG](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) / [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
-| Matrix Chain Multiplication |  |  |
+| Matrix Chain Multiplication |  | [GFG](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) / [Coding Ninjas]( https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344) |
+| |Palindrome Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) / [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) / [Interviewbit](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) |
+| | Evalute Expression To True (Boolean Parenthesization)| [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1) /[Interviewbit](https://www.interviewbit.com/problems/evaluate-expression-to-true/) |
+| |Scramble String |[GFG](https://practice.geeksforgeeks.org/problems/scrambled-string/1) / [LeetCode](https://leetcode.com/problems/scramble-string/) / [Interviewbit](https://www.interviewbit.com/problems/scramble-string/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/scramble-string_893277) |
+| |Egg Dropping Problem | |
 | DP on Tree | | |
 | | Diameter Of Binary Tree | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) / [GFG](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) / [HackerEarth](https://www.hackerearth.com/problem/algorithm/diameter-of-tree/)|
 | | Maximum PathSum from AnyNode to AnyNode | [GFG](https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) / [Interviewbit](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/) / [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/maximum-sum-path-of-a-binary-tree_1214968)|
