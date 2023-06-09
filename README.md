@@ -216,7 +216,7 @@
 | | Minimum Insertion & Deletion to Convert String A to B | |
 | | Longest Palindromic Subsequence | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787) / [GFG](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) / [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | Matrix Chain Multiplication |  | [GFG](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) / [Coding Ninjas]( https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344) |
-| |Palindrome Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) / [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) / [Interviewbit](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) |
+| |Palindrome Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) / [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) / [Interviewbit](https://www.interviewbit.com/problems/palindrome-partitioning-ii/) |
 | | Evalute Expression To True (Boolean Parenthesization)| [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1) /[Interviewbit](https://www.interviewbit.com/problems/evaluate-expression-to-true/) |
 | |Scramble String |[GFG](https://practice.geeksforgeeks.org/problems/scrambled-string/1) / [LeetCode](https://leetcode.com/problems/scramble-string/) / [Interviewbit](https://www.interviewbit.com/problems/scramble-string/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/scramble-string_893277) |
 | |Egg Dropping Problem | |
