@@ -110,6 +110,8 @@
 | | Reverse DLL | [GFG](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) / [Hackerrank](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|
 | Doubly Circular Linked-List | | |
 | Merge |Two Sorted linked list | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) / [GFG](https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1) / [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) / [Hackerrank](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332) / [Interviewbit](https://www.interviewbit.com/problems/merge-two-sorted-lists/)|
+| Detect Loop in Linked List | | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) / [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) / [GFG](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
+
 ### Practice problems
 ---
 
