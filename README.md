@@ -127,7 +127,10 @@
 >## Heap
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Kth Smallest Element |  | [GFG](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|
+| Kth Largest Element |  | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| K largest Elements in Array | | [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1) / [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1) |
+| | | |
 ### Practice problems
 ---
 
