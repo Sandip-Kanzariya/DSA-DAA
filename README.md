@@ -84,7 +84,13 @@
 >## Queue
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Implementation of Queue | Using array | [GFG1](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) / [GFG2](https://practice.geeksforgeeks.org/problems/queue-designer/1) / [GFG3](https://practice.geeksforgeeks.org/problems/queue-operations/1) |
+| |Using LikedList | [GFG](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)|
+| |Using two Stack | |
+| |Using Call Stack | |
+|Circular Queue|Using Array |[LeetCode](https://leetcode.com/problems/design-circular-queue/) |
+| | Using linkedList| |
+
 ### Practice problems
 ---
 
@@ -92,7 +98,11 @@
 >## Linked List
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+|Singly Linked-List |Find length of Linkedlist |[GFG](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | 
+||Linked List Insertion | [GFG](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1 ) / [GFG](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) / [GFG](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) / [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)|
+| | Linkedlist Deletion | [GFG](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) / [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) / [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1) / [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|
+| |Reverse Linked List|[GFG](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) / [LeetCode](https://leetcode.com/problems/reverse-linked-list/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897) / [GFG](https://practice.geeksforgeeks.org/problems/deletion-and-reverse-in-linked-list/1)|
+
 ### Practice problems
 ---
 
