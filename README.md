@@ -118,7 +118,11 @@
 >## Sliding Window
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Maximum Sum subarray of size k |  | [GFG](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)  |
+| First Negative Number in Every Window| | |
+| Count Occurrences of Anagrams| | |
+| Maximum of All Subarray Of Size k| | |
+| Largest Subarray of sum k| | |
 ### Practice problems
 ---
 
