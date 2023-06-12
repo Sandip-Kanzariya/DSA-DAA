@@ -1,20 +1,20 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
 |Table of Contain|
 |---|
-| Sorting |
-| Stack |
-| Queue |
-| Linked List |
-| Sliding Window |
-| Heap |
-| Binary Search |
-| Algorithms On a Graph |
-| Tree |
-| Greedy |
-| Recursion |
-| Dynamic Programming |
+| [Sorting](https://github.com/Sandip-Kanzariya/DSA-DAA#sorting-algorithms) |
+| [Stack](https://github.com/Sandip-Kanzariya/DSA-DAA#stack)|
+| [Queue](https://github.com/Sandip-Kanzariya/DSA-DAA#queue)|
+| [Linked List](https://github.com/Sandip-Kanzariya/DSA-DAA#linked-list) |
+| [Sliding Window](https://github.com/Sandip-Kanzariya/DSA-DAA#sliding-window) |
+| [Heap](https://github.com/Sandip-Kanzariya/DSA-DAA#heap) |
+| [Binary Search](https://github.com/Sandip-Kanzariya/DSA-DAA#binary-search) |
+| [Algorithms On a Graph](https://github.com/Sandip-Kanzariya/DSA-DAA#algorithms-on-a-graph)|
+| [Tree](https://github.com/Sandip-Kanzariya/DSA-DAA#tree)|
+| [Greedy](https://github.com/Sandip-Kanzariya/DSA-DAA#greedy) |
+| [Recursion](https://github.com/Sandip-Kanzariya/DSA-DAA#recursion) |
+| [Dynamic Programming](https://github.com/Sandip-Kanzariya/DSA-DAA#dynamic-programming) |
 | Backtracking |
-| Branch and Bound|
+| [Branch and Bound](https://github.com/Sandip-Kanzariya/DSA-DAA#branch-and-bound)|
 
 
 >## Competitive Programming 
