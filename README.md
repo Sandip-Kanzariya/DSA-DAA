@@ -55,6 +55,7 @@
 | Radix Sort |  | [GFG]() |
 | Shell Sort |  | [GFG]() |  
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -79,6 +80,7 @@
 
 
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Queue
@@ -92,6 +94,7 @@
 | | Using linkedList| |
 
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -113,6 +116,7 @@
 | Detect Loop in Linked List | | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) / [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) / [GFG](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
 
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Sliding Window
@@ -124,6 +128,7 @@
 | Maximum of All Subarray Of Size k| | |
 | Largest Subarray of sum k| | |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -136,6 +141,7 @@
 | K largest Elements in Array | | [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1) / [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1) |
 | | | |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -144,6 +150,7 @@
 |--- |--- |--- |
 |  |  |  |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -181,12 +188,14 @@
 
 ### Practice problems
 #### ✨Codeforces  : [Problems on Graph & Tree](https://codeforces.com/blog/entry/55219) 👈👈👈👈👈
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Tree
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
 |  |  |  |
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -197,6 +206,7 @@
 | Fractional Knapsack |  |  |
 | Making Coin Change |  |  |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
@@ -215,6 +225,7 @@
 |Josephus - Game of Death in a Circle | | [GFG](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | 
 
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Dynamic Programming 
@@ -254,6 +265,7 @@
 
 ### Practice problems
 #### ✨Atcoder : [Educational DP Contest](https://atcoder.jp/contests/dp/tasks/) 👈👈👈👈👈
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Backtracking : Find all Possible Solution
@@ -265,6 +277,7 @@
 | Hamiltonian Cycle |  |  |
 | Sum of Subset Using Backtracking |  |  |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 >## Branch and Bound 
@@ -275,6 +288,7 @@
 | Traveling SalesPerson Problem |  |  |
 | 0-1 Knapsack Using Branch & Bound |  |  |
 ### Practice problems
+⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
 
