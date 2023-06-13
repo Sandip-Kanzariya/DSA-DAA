@@ -139,10 +139,17 @@
 | Kth Smallest Element |  | [GFG](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)|
 | Kth Largest Element |  | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | K largest Elements in Array | | [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1) / [GFG](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1) |
-| | | |
+|Sort Nearly Sorted Array | |[GFG](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0) / [GFG](https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/nearly-sorted_982937) |
+| K Closest Elements| |[GFG](https://practice.geeksforgeeks.org/problems/k-closest-elements3619/1)|
+| Top K Frequent Elements| | [GFG](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) |
+| Frequency Sort| |[GFG](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0) / [GFG](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1) / [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) / [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
+|K Closet Point to Origin | |[LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) / [Coding Ninjad](https://www.codingninjas.com/codestudio/problems/k-closest-points-to-origin_1094908)|
+|Connect Ropes To Minimise The Cost| |[GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)|
+|Use Of the Kth Smallest Element | |[GFG](https://practice.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) |
 ### Practice problems
 ⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
+
 
 
 >## Binary Search
