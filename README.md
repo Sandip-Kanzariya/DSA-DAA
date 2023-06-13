@@ -218,7 +218,11 @@
 >## Tree
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Create Tree Node |  |  |
+| Tree Traversal | Pre order| [GFG](https://practice.geeksforgeeks.org/problems/preorder-traversal/1)|
+|                | Inorder  | [GFG](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) / [GFG](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1) |
+|                | Post Order| [GFG](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) / [GFG](https://practice.geeksforgeeks.org/problems/postorder-traversal-iterative/1)|
+
 ⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
 
