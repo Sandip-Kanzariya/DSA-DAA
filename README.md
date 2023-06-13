@@ -143,7 +143,7 @@
 | K Closest Elements| |[GFG](https://practice.geeksforgeeks.org/problems/k-closest-elements3619/1)|
 | Top K Frequent Elements| | [GFG](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) |
 | Frequency Sort| |[GFG](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0) / [GFG](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1) / [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) / [LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
-|K Closet Point to Origin | |[LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) / [Coding Ninjad](https://www.codingninjas.com/codestudio/problems/k-closest-points-to-origin_1094908)|
+|K Closet Point to Origin | |[LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/k-closest-points-to-origin_1094908)|
 |Connect Ropes To Minimise The Cost| |[GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)|
 |Use Of the Kth Smallest Element | |[GFG](https://practice.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) |
 ### Practice problems
@@ -155,7 +155,24 @@
 >## Binary Search
 | Topic | Problem name | Similar problems |
 |--- |--- |--- |
-|  |  |  |
+| Binary Search|  |[GFG](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1) / [LeetCode](https://leetcode.com/problems/binary-search/)  |
+|First & Last Occurrence of the Element In sorted Array | | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549) / [GFG](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) / [GFG](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1) |
+| Element Count in Sorted array| |[Coding Ninjas](https://www.codingninjas.com/codestudio/problems/occurrence-of-x-in-a-sorted-array_630456) |
+|Number of times Sorted array is Rotated | |[GFG](https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1) / [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) / [LeetCode-2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) / [Interviewbit](https://www.interviewbit.com/problems/rotated-array/)|
+|Search in Rotated Sorted array| |  |
+|Searching in Nearly Sorted array | | [GFG](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1)|
+|Floor of an element in a Sorted array | | [GFG](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) |
+|Ceil of an element in a Sorted array | |[Coding Ninjas](https://www.codingninjas.com/codestudio/problems/ceiling-in-a-sorted-array_1825401) |
+|Next Alphabetical letter | | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
+|Find Position Of Element in An Infinite Sorted array | | |
+|Find index of first 1 in infinite Binary Sorted array | | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/search-in-infinite-sorted-0-1-array_696193) / [GFG](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) |
+|Minimum difference element in a sorted array | | |
+|Peak Element | | [GFG](https://practice.geeksforgeeks.org/problems/peak-element/1) / [LeetCode](https://leetcode.com/problems/find-peak-element/)|
+|Find maximum element in Bitonic array| | [GFG](https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) / [Interviewbit](https://www.interviewbit.com/problems/search-in-bitonic-array/)|
+| Search In Bitonic Array| | [Interviewbit](https://www.interviewbit.com/problems/search-in-bitonic-array/)|
+|Search in Row wise ans Column wise Sorted 2D array| | [GFG](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) / [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) / [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
+|Allocate minimum Number Of Pages |[GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/allocate-books_1090540) / [Interviewbit](https://www.interviewbit.com/problems/allocate-books/) | [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559) |
+
 ### Practice problems
 ⬆️ [Go To Top](https://github.com/Sandip-Kanzariya/DSA-DAA#dsa-daa--topicwise-implementation-of-algorithms)
 ---
