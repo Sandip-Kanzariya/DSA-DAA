@@ -262,7 +262,7 @@
 |--- |--- |--- |
 | Fundamental | Factorial |  |
 |  | Fibonacci |  |
-|  | Binomial Coefficient |  |
+|  | Binomial Coefficient | [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1) |
 | 0-1 Knapsack |  | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | 
 |  | Subset Sum Problem | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) / [Interviewbit](https://www.interviewbit.com/problems/subset-sum-problem/)|
 |  | Equal Sum Partition | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) / [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/) / [Coding Ninjas](https://www.codingninjas.com/codestudio/problems/partition-equal-subset-sum_892980) / [HackerEarth](https://www.hackerearth.com/problem/algorithm/equal-subset-sum-partition/)|
