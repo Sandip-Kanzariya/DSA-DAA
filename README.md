@@ -1,5 +1,6 @@
 # DSA-DAA : Topicwise Implementation of Algorithms
-|Table of Contain|
+
+|Table of Contain (Topic List)|
 |---|
 | [Sorting](https://github.com/Sandip-Kanzariya/DSA-DAA#sorting-algorithms) |
 | [Stack](https://github.com/Sandip-Kanzariya/DSA-DAA#stack)|
